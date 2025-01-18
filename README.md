@@ -53,8 +53,8 @@ This repository leverages the following technologies and tools:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AntBap23/practice-projects-ds.git
-   cd practice-projects-ds
+   git clone https://github.com/AntBap23/practice-guided-projects.git
+   cd practice-guided-projects
    ```
 
 2. **Explore Individual Projects**:
